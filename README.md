@@ -36,6 +36,11 @@ Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows
 
 ## Featured Projects
 
+- **Zenify** – JavaScript web app for focused productivity and calm (v2.0 in progress).  
+  Tech: JavaScript, (add framework details).  
+  [Code](https://github.com/najiatislam/Zenify) | [v2.0](https://github.com/najiatislam/Zenify-2.0)
+  
+
 - **Autonomous Quadcopter Flight Controller** – C++/Arduino-based controller with PID stabilization, IMU attitude control, and real-time ESC output for stable self-leveling flight.  
   Tech: C++, Arduino, PID algorithms.  
   [Code](https://github.com/najiatislam/Autonomous-Quadcopter-Flight-Controller-Drone-)  
@@ -46,9 +51,7 @@ Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows
   [Code](https://github.com/najiatislam/Moana-in-3D-Surviving-Game-)  
   
 
-- **Zenify** – JavaScript web app for focused productivity and calm (v2.0 in progress).  
-  Tech: JavaScript, (add framework details).  
-  [Code](https://github.com/najiatislam/Zenify) | [v2.0](https://github.com/najiatislam/Zenify-2.0)  
+
 
 
 (More coming: Targeting deployed ML apps like air quality forecasting.)
