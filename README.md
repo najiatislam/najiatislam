@@ -8,7 +8,7 @@ Currently sharpening machine learning (computer vision, time-series), deployment
 🔭 Working on: Dhaka Air Quality Dashboard & Predictor (real-time data viz + forecasting—coming soon)  
 🌱 Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows  
 👯 Open to collaborate on: Data science/ML apps, computer vision, embedded projects, or open-source tools  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/najiat-islam-b72458393) | [najiatislam1205@gmail.com](mailto:najiatislam1205@gmail.com)
+📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najiat-islam-b72458393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najiatislam1205@gmail.com)
 
 ## 🛠️ Tech Stack
 
