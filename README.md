@@ -40,17 +40,17 @@ Currently sharpening machine learning (computer vision, time-series), deployment
 - **Autonomous Quadcopter Flight Controller** – C++/Arduino-based controller with PID stabilization, IMU attitude control, and real-time ESC output for stable self-leveling flight.  
   Tech: C++, Arduino, PID algorithms.  
   [Code](https://github.com/najiatislam/Autonomous-Quadcopter-Flight-Controller-Drone-)  
-  *(Add demo video/screenshots here—hardware projects shine with visuals)*
+  
 
 - **Moana 3D Survival Game** – Immersive 3D survival game built from scratch in Python.  
   Tech: Python, (likely OpenGL/pygame—clarify in repo).  
   [Code](https://github.com/najiatislam/Moana-in-3D-Surviving-Game-)  
-  *(GIF of gameplay would kill here)*
+  
 
 - **Zenify** – JavaScript web app for focused productivity and calm (v2.0 in progress).  
   Tech: JavaScript, (add framework details).  
   [Code](https://github.com/najiatislam/Zenify) | [v2.0](https://github.com/najiatislam/Zenify-2.0)  
-  *(No description yet—fix that today. Live Vercel deploy = instant upgrade)*
+
 
 (More coming: Targeting deployed ML apps like air quality forecasting.)
 
@@ -59,5 +59,4 @@ Currently sharpening machine learning (computer vision, time-series), deployment
 ![](https://nirzak-streak-stats.vercel.app/?user=najiatislam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=najiatislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-*Last updated: February 2026*
+
