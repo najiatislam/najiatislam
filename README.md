@@ -9,7 +9,7 @@ Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows
 👯 Open to collaborate on: Data science/ML apps, computer vision, embedded projects, or open-source tools  
 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najiat-islam-b72458393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najiatislam1205@gmail.com)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -34,7 +34,7 @@ Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **Autonomous Quadcopter Flight Controller** – C++/Arduino-based controller with PID stabilization, IMU attitude control, and real-time ESC output for stable self-leveling flight.  
   Tech: C++, Arduino, PID algorithms.  
@@ -53,7 +53,7 @@ Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows
 
 (More coming: Targeting deployed ML apps like air quality forecasting.)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=najiatislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=najiatislam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=najiatislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
