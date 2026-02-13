@@ -54,12 +54,10 @@ Currently sharpening machine learning (computer vision, time-series), deployment
 
 (More coming: Targeting deployed ML apps like air quality forecasting.)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=najiatislam&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najiatislam&theme=dark&hide_border=true&layout=compact"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=najiatislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=najiatislam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=najiatislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 *Last updated: February 2026*
