@@ -1,12 +1,11 @@
-# Hi, I'm Najiat 👋
+# Hi, I'm Najiat
 
-Data science enthusiast and full-stack developer based in Dhaka, Bangladesh.  
+Data science enthusiast and full-stack developer.  
 Building end-to-end solutions—from data pipelines and ML models to interactive web apps and embedded systems.
 
 Currently sharpening machine learning (computer vision, time-series), deployment skills, and real-world impact projects.
+Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows  
 
-🔭 Working on: Dhaka Air Quality Dashboard & Predictor (real-time data viz + forecasting—coming soon)  
-🌱 Learning: Advanced PyTorch, FastAPI/Docker for production, MLOps workflows  
 👯 Open to collaborate on: Data science/ML apps, computer vision, embedded projects, or open-source tools  
 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najiat-islam-b72458393) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najiatislam1205@gmail.com)
 
